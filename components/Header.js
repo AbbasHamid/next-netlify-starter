@@ -1,4 +1,3 @@
-
 import Link from "next/Link";
 
 function Header() {
@@ -43,7 +42,7 @@ function loginRole() {
             Boka städning
           </Link>
           <Link className="nav-link" href="/admin">
-            Registrera
+            Registreraa
           </Link>
           <Link className="nav-link" href="/my_bookings">
             Mina Städningar
