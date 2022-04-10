@@ -1,0 +1,22 @@
+.website-body{
+    background: linear-gradient(to bottom right, #40E0D0, #4A148C);
+}
+
+.page-body{
+    min-height: 70vh;
+}
+
+.home-page{
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+div a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
